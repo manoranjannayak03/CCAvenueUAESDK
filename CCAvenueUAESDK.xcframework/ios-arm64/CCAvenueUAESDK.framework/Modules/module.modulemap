@@ -1,0 +1,4 @@
+framework module CCAvenueUAESDK {
+  header "CCAvenueUAESDK-Swift.h"
+  requires objc
+}

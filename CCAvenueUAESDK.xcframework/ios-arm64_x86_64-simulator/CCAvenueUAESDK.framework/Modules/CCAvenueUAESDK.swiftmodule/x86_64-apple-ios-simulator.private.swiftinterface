@@ -1,0 +1,171 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 6.2.1 effective-5.10 (swiftlang-6.2.1.4.8 clang-1700.4.4.1)
+// swift-module-flags: -target x86_64-apple-ios13.1-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-upcoming-feature DisableOutwardActorInference -enable-upcoming-feature InferSendableFromCaptures -enable-upcoming-feature GlobalActorIsolatedTypesUsability -enable-upcoming-feature MemberImportVisibility -enable-upcoming-feature InferIsolatedConformances -enable-upcoming-feature NonisolatedNonsendingByDefault -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name CCAvenueUAESDK
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2.1
+import Combine
+import DeveloperToolsSupport
+import Foundation
+import Security
+import Swift
+import SwiftUI
+import SystemConfiguration
+import UIKit
+import WebKit
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+import _WebKit_SwiftUI
+public enum PaymentEnvironment {
+  case qa
+  case staging
+  case production
+  public static func == (a: CCAvenueUAESDK.PaymentEnvironment, b: CCAvenueUAESDK.PaymentEnvironment) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+public class PaymentConfig {
+  public init()
+  public var customerId: Swift.String
+  public var accessCode: Swift.String
+  public var amount: Swift.String
+  public var currency: Swift.String
+  public var merchantId: Swift.Int
+  public var orderId: Swift.String
+  public var trackingId: Swift.Int
+  public var requestHash: Swift.String
+  public var promotion: Swift.String
+  public var displayAddress: Swift.Bool
+  public var merchantLogoUrl: Swift.String
+  public var environment: CCAvenueUAESDK.PaymentEnvironment
+  public var redirectURL: Swift.String
+  public var cancelURL: Swift.String
+  public var billingName: Swift.String
+  public var billingAddress: Swift.String
+  public var billingCity: Swift.String
+  public var billingCountry: Swift.String
+  public var billingState: Swift.String
+  public var billingTel: Swift.String
+  public var billingEmail: Swift.String
+  public var shippingName: Swift.String
+  public var shippingAddress: Swift.String
+  public var shippingCity: Swift.String
+  public var shippingCountry: Swift.String
+  public var shippingState: Swift.String
+  public var shippingTel: Swift.String
+  public var merchantParam1: Swift.String
+  public var merchantParam2: Swift.String
+  public var merchantParam3: Swift.String
+  public var merchantParam4: Swift.String
+  public var merchantParam5: Swift.String
+  public var siType: Swift.String
+  public var siMerchantRefNo: Swift.String
+  public var siSetupAmount: Swift.String
+  public var siAmount: Swift.String
+  public var siStartDate: Swift.String
+  public var siFrequencyType: Swift.String
+  public var siFrequency: Swift.String
+  public var siBillCycle: Swift.String
+  @objc deinit
+}
+
+public protocol CCAvenueUAESDKDelegate : AnyObject {
+  #if compiler(>=5.3) && $NonescapableTypes
+  func onTransactionResponse(_ jsonResponse: [Swift.String : Any]?)
+  #endif
+}
+@_hasMissingDesignatedInitializers final public class SDKBundle {
+  public static let bundle: Foundation.Bundle
+  @objc deinit
+}
+
+@_hasMissingDesignatedInitializers public class RSAUtils {
+  @objc @_hasMissingDesignatedInitializers @available(iOS 1.2.0, *)
+  public class RSAUtilsError : Foundation.NSError {
+    #if compiler(>=5.3) && $NonescapableTypes
+    @available(*, unavailable)
+    @objc required dynamic public init?(coder aDecoder: Foundation.NSCoder)
+    #endif
+    @objc deinit
+  }
+  @available(iOS 1.2.0, *)
+  public static func deleteRSAKeyFromKeychain(_ tagName: Swift.String)
+  #if compiler(>=5.3) && $NonescapableTypes
+  @available(iOS 1.2.0, *)
+  public static func getRSAKeyFromKeychain(_ tagName: Swift.String) -> Security.SecKey?
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  @available(iOS 1.2.0, *)
+  @discardableResult
+  public static func addRSAPrivateKey(_ privkeyBase64: Swift.String, tagName: Swift.String) throws -> Security.SecKey?
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  @available(iOS 1.2.0, *)
+  public static func addRSAPublicKey(_ pubkeyBase64: Swift.String, tagName: Swift.String) throws -> Security.SecKey?
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  @available(iOS 1.2.0, *)
+  public static func encryptWithRSAKey(_ data: Foundation.Data, rsaKeyRef: Security.SecKey, padding: Security.SecPadding) -> Foundation.Data?
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  @available(iOS 1.2.0, *)
+  public static func decryptWithRSAKey(_ encryptedData: Foundation.Data, rsaKeyRef: Security.SecKey, padding: Security.SecPadding) -> Foundation.Data?
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  @available(iOS 1.2.0, *)
+  public static func encryptWithRSAKey(data: Foundation.Data, tagName: Swift.String) -> Foundation.Data?
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  @available(iOS 1.2.0, *)
+  public static func encryptWithRSAKey(str: Swift.String, tagName: Swift.String) -> Foundation.Data?
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  @available(iOS 1.2.0, *)
+  public static func decryptWithRSAKey(encryptedData: Foundation.Data, tagName: Swift.String) -> Foundation.Data?
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  @available(iOS 1.2.0, *)
+  public static func encryptWithRSAPublicKey(data: Foundation.Data, pubkeyBase64: Swift.String) throws -> Foundation.Data?
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  @available(iOS 1.2.0, *)
+  public static func encryptWithRSAPublicKey(str: Swift.String, pubkeyBase64: Swift.String) throws -> Foundation.Data?
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  @available(iOS 1.2.0, *)
+  public static func encryptWithRSAPublicKey(data: Foundation.Data, pubkeyBase64: Swift.String, tagName: Swift.String) throws -> Foundation.Data?
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  @available(iOS 1.2.0, *)
+  public static func encryptWithRSAPublicKey(str: Swift.String, pubkeyBase64: Swift.String, tagName: Swift.String) throws -> Foundation.Data?
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  @available(iOS 1.2.0, *)
+  public static func decryptWithRSAPrivateKey(encryptedData: Foundation.Data, privkeyBase64: Swift.String) throws -> Foundation.Data?
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  @available(iOS 1.2.0, *)
+  public static func decryptWithRSAPrivateKey(encryptedData: Foundation.Data, privkeyBase64: Swift.String, tagName: Swift.String) throws -> Foundation.Data?
+  #endif
+  @objc deinit
+}
+extension SwiftUICore.View {
+  @_Concurrency.MainActor @preconcurrency public func onChangeCompat<T>(of value: T, perform action: @escaping (T) -> Swift.Void) -> some SwiftUICore.View where T : Swift.Equatable
+  
+}
+@_Concurrency.MainActor @preconcurrency public struct OnChangeCompatModifier<T> : SwiftUICore.ViewModifier where T : Swift.Equatable {
+  @_Concurrency.MainActor @preconcurrency public init(value: T, action: @escaping (T) -> Swift.Void)
+  @_Concurrency.MainActor @preconcurrency public func body(content: CCAvenueUAESDK.OnChangeCompatModifier<T>.Content) -> some SwiftUICore.View
+  
+  public typealias Body = @_opaqueReturnTypeOf("$s14CCAvenueUAESDK22OnChangeCompatModifierV4body7contentQr7SwiftUI05_ViewF8_ContentVyACyxGG_tF", 0) __<T>
+}
+@_hasMissingDesignatedInitializers final public class CCAvenueUAESDK {
+  #if compiler(>=5.3) && $NonescapableTypes
+  public static func initiatePayment(from presenter: UIKit.UIViewController, delegate: (any CCAvenueUAESDK.CCAvenueUAESDKDelegate)? = nil, paymentConfig: CCAvenueUAESDK.PaymentConfig)
+  #endif
+  @objc deinit
+}
+extension CCAvenueUAESDK.PaymentEnvironment : Swift.Equatable {}
+extension CCAvenueUAESDK.PaymentEnvironment : Swift.Hashable {}
+extension CCAvenueUAESDK.OnChangeCompatModifier : Swift.Sendable {}
