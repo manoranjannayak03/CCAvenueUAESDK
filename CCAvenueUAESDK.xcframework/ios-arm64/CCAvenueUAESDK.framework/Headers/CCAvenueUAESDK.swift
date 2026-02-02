@@ -6,7 +6,7 @@
 //
 import SwiftUI
 
-final public class CCAvenueUAESDK {
+final public class CCAvenueUAEPayment {
     public static func initiatePayment(from presenter: UIViewController, delegate: CCAvenueUAESDKDelegate? = nil, paymentConfig: PaymentConfig) {
         let merchantParam = MainViewModel().validateMerchantParameter(params: paymentConfig)
         if !merchantParam.isValid {

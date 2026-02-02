@@ -1,7 +1,7 @@
 // swift-interface-format-version: 1.0
 // swift-compiler-version: Apple Swift version 6.2.1 effective-5.10 (swiftlang-6.2.1.4.8 clang-1700.4.4.1)
 // swift-module-flags: -target x86_64-apple-ios13.1-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-upcoming-feature DisableOutwardActorInference -enable-upcoming-feature InferSendableFromCaptures -enable-upcoming-feature GlobalActorIsolatedTypesUsability -enable-upcoming-feature MemberImportVisibility -enable-upcoming-feature InferIsolatedConformances -enable-upcoming-feature NonisolatedNonsendingByDefault -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name CCAvenueUAESDK
-// swift-module-flags-ignorable: -no-verify-emitted-module-interface -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2.1
+// swift-module-flags-ignorable:  -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2.1
 import Combine
 import DeveloperToolsSupport
 import Foundation
@@ -160,7 +160,7 @@ extension SwiftUICore.View {
   
   public typealias Body = @_opaqueReturnTypeOf("$s14CCAvenueUAESDK22OnChangeCompatModifierV4body7contentQr7SwiftUI05_ViewF8_ContentVyACyxGG_tF", 0) __<T>
 }
-@_hasMissingDesignatedInitializers final public class CCAvenueUAESDK {
+@_hasMissingDesignatedInitializers final public class CCAvenueUAEPayment {
   #if compiler(>=5.3) && $NonescapableTypes
   public static func initiatePayment(from presenter: UIKit.UIViewController, delegate: (any CCAvenueUAESDK.CCAvenueUAESDKDelegate)? = nil, paymentConfig: CCAvenueUAESDK.PaymentConfig)
   #endif

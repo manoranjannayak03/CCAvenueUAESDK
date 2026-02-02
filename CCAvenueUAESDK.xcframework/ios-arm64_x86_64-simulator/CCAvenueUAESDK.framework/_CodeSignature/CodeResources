@@ -8,25 +8,21 @@
 		<data>
 		Hm50IamzV9GGtU5rYNlB0Knazyc=
 		</data>
-		<key>Headers/CCAvenueUAESDK-Swift.h</key>
-		<data>
-		CxpAgIG4iFr19lzlwMZp0mT2/Ro=
-		</data>
 		<key>Headers/CCAvenueUAESDK.swift</key>
 		<data>
-		jS0PlE3m5eWT2xRRWIoLctOtXj0=
+		6kLF0EOWKt94bI/sRC1gihtdKYo=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		B8P1XasfbkIzKdkC8WSPbd5Zqe4=
+		92C/RQG91xa7hgu9Pb/WLj+vp8E=
 		</data>
 		<key>Modules/CCAvenueUAESDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		8hjfm2Aay9Pq+PMrhMfMWcHdbAY=
+		Rlb5kk5CyxyLMsk/OKI9dDo/2Fo=
 		</data>
 		<key>Modules/CCAvenueUAESDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		2lTDx7uo0gT2l+bM/Iyq8R5XqIY=
+		ejaC8gagtwmp0s8sf8Q+53GTpdg=
 		</data>
 		<key>Modules/CCAvenueUAESDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -34,19 +30,19 @@
 		</data>
 		<key>Modules/CCAvenueUAESDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		2lTDx7uo0gT2l+bM/Iyq8R5XqIY=
+		ejaC8gagtwmp0s8sf8Q+53GTpdg=
 		</data>
 		<key>Modules/CCAvenueUAESDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		AevIXhb/NKE4t2GnF7/k/h8d9hk=
+		LvnnQYQr8fklhquAemw8OX1xw/0=
 		</data>
 		<key>Modules/CCAvenueUAESDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		8hjfm2Aay9Pq+PMrhMfMWcHdbAY=
+		Rlb5kk5CyxyLMsk/OKI9dDo/2Fo=
 		</data>
 		<key>Modules/CCAvenueUAESDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		P6mqcCdA1/PooLDMZphbpC5F7tg=
+		i+BTuReQsUzo7rXAN21CIQEySYQ=
 		</data>
 		<key>Modules/CCAvenueUAESDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -54,15 +50,11 @@
 		</data>
 		<key>Modules/CCAvenueUAESDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		P6mqcCdA1/PooLDMZphbpC5F7tg=
+		i+BTuReQsUzo7rXAN21CIQEySYQ=
 		</data>
 		<key>Modules/CCAvenueUAESDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		xVeTdrc3uRWg7riW7rs7dhId1D8=
-		</data>
-		<key>Modules/module.modulemap</key>
-		<data>
-		FvYp1gdv4uPZzv1gDbI36zIo7f8=
+		3lGXv/LW2WhHHTcYPeEjkMDwqqo=
 		</data>
 		<key>en.lproj/Localizable.strings</key>
 		<dict>
@@ -101,32 +93,25 @@
 			qppMuNSsmadCORYjVtvP9frkYHdRuIUXLQBzQORGHIQ=
 			</data>
 		</dict>
-		<key>Headers/CCAvenueUAESDK-Swift.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			jsciTxZamm1jJ8V9uO3DgSUzUHGEUrRl5HELYEaYd8E=
-			</data>
-		</dict>
 		<key>Headers/CCAvenueUAESDK.swift</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4X9b7JZKd9XONazEvC6orRtlrzgl8U0NglkexdUVUfw=
+			+ST2HVWpmCRNk3tRFFehfqk4F5f9jQWHo58yJAX/UeE=
 			</data>
 		</dict>
 		<key>Modules/CCAvenueUAESDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yZBjUhY15hjszi7UULNbZ7SkSoj/opWqqwCETHCPazk=
+			NqR94wFQhgLwuoLRXxv1CNfga2xDFQtkrZkbfwdHwmI=
 			</data>
 		</dict>
 		<key>Modules/CCAvenueUAESDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xFzfRh724G5uRNEbc88fOVhOvPlIns4QZ1yVFSX7i0o=
+			ansTZHh779RvRo/nIChJqKZftZ9de+CBWwbFYfCfPI8=
 			</data>
 		</dict>
 		<key>Modules/CCAvenueUAESDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -140,28 +125,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xFzfRh724G5uRNEbc88fOVhOvPlIns4QZ1yVFSX7i0o=
+			ansTZHh779RvRo/nIChJqKZftZ9de+CBWwbFYfCfPI8=
 			</data>
 		</dict>
 		<key>Modules/CCAvenueUAESDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ticcLbvxa5SGwaSlrObUSrsmtp51vyg78jDPsaUn0hw=
+			yaBxVnsQFTcbu95r/3uNK9CttTOVzqPiaRBQuTTl3Oo=
 			</data>
 		</dict>
 		<key>Modules/CCAvenueUAESDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yZBjUhY15hjszi7UULNbZ7SkSoj/opWqqwCETHCPazk=
+			NqR94wFQhgLwuoLRXxv1CNfga2xDFQtkrZkbfwdHwmI=
 			</data>
 		</dict>
 		<key>Modules/CCAvenueUAESDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IL114/XaIxmebQpb0XtLDI9Z3mqxb4kBwSjbKzMpi9A=
+			/uKBixRDSM2MaTxczSzoGa3frsly8RhEmvnLsKm7ZtE=
 			</data>
 		</dict>
 		<key>Modules/CCAvenueUAESDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -175,21 +160,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			IL114/XaIxmebQpb0XtLDI9Z3mqxb4kBwSjbKzMpi9A=
+			/uKBixRDSM2MaTxczSzoGa3frsly8RhEmvnLsKm7ZtE=
 			</data>
 		</dict>
 		<key>Modules/CCAvenueUAESDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			op0Tc6hEUv7hHrgQcrCeXyOabDy1TOoZu3z7OXrPXMM=
-			</data>
-		</dict>
-		<key>Modules/module.modulemap</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			TtQ6kPLtla3bQ7MFIeqhwIpyRMINtXunFOsyi5qDC8A=
+			eF2qjJAwOiehInBRfSv11liC4tuKfff/eOLOtja4aIw=
 			</data>
 		</dict>
 		<key>en.lproj/Localizable.strings</key>

@@ -8,25 +8,21 @@
 		<data>
 		Hm50IamzV9GGtU5rYNlB0Knazyc=
 		</data>
-		<key>Headers/CCAvenueUAESDK-Swift.h</key>
-		<data>
-		Z5Yk2I63y1Zs7SMgZ5O8Apho5sQ=
-		</data>
 		<key>Headers/CCAvenueUAESDK.swift</key>
 		<data>
-		jS0PlE3m5eWT2xRRWIoLctOtXj0=
+		6kLF0EOWKt94bI/sRC1gihtdKYo=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		WrrK6jv/JYUy/KIWomSaPI4w1q4=
+		fqgwr+CI3HfP+q/mbj6Ziu0aJi8=
 		</data>
 		<key>Modules/CCAvenueUAESDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		LF8YAzweW+brHLEu/70t9cgAu88=
+		R7zeiy6LAy6uxtAdLIsiaZ6aUTg=
 		</data>
 		<key>Modules/CCAvenueUAESDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		6PzAKYVg6hb8uRGmfgFWhOP8fJE=
+		8+7RzMFklzE0rkInItQ8GhghP4E=
 		</data>
 		<key>Modules/CCAvenueUAESDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -34,15 +30,11 @@
 		</data>
 		<key>Modules/CCAvenueUAESDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		6PzAKYVg6hb8uRGmfgFWhOP8fJE=
+		8+7RzMFklzE0rkInItQ8GhghP4E=
 		</data>
 		<key>Modules/CCAvenueUAESDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		2nVbaFOQT3zMat7yOqtwzX/Lm1M=
-		</data>
-		<key>Modules/module.modulemap</key>
-		<data>
-		FvYp1gdv4uPZzv1gDbI36zIo7f8=
+		M7q/1iGGZ7SMsyn3nrrrf+V+Aqw=
 		</data>
 		<key>en.lproj/Localizable.strings</key>
 		<dict>
@@ -81,32 +73,25 @@
 			qppMuNSsmadCORYjVtvP9frkYHdRuIUXLQBzQORGHIQ=
 			</data>
 		</dict>
-		<key>Headers/CCAvenueUAESDK-Swift.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			8WTP8YcYbgTWs8S7J4ZtACCMolFbkQza6MlMrm4nhng=
-			</data>
-		</dict>
 		<key>Headers/CCAvenueUAESDK.swift</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4X9b7JZKd9XONazEvC6orRtlrzgl8U0NglkexdUVUfw=
+			+ST2HVWpmCRNk3tRFFehfqk4F5f9jQWHo58yJAX/UeE=
 			</data>
 		</dict>
 		<key>Modules/CCAvenueUAESDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			l5gKm26Cvc2MOx1Vm9Qb9/iZi7/MAx1uY5nljoen/h4=
+			AvTGKlVIEuok6+mYTMSMSleei1lVqSb61TZOwFv0Efg=
 			</data>
 		</dict>
 		<key>Modules/CCAvenueUAESDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QwATR8wE9Tb7MNPdDc/omH1hE404nNmjPXpuUxEMNyI=
+			lgexXjtpCgpUXxciBd2ui7nh3JVlNibOIsjiPBd94L8=
 			</data>
 		</dict>
 		<key>Modules/CCAvenueUAESDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -120,21 +105,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QwATR8wE9Tb7MNPdDc/omH1hE404nNmjPXpuUxEMNyI=
+			lgexXjtpCgpUXxciBd2ui7nh3JVlNibOIsjiPBd94L8=
 			</data>
 		</dict>
 		<key>Modules/CCAvenueUAESDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7xbYGfm6CZRRo0aZoMyU/JWhvsabaHdLhBgfFvNyLw8=
-			</data>
-		</dict>
-		<key>Modules/module.modulemap</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			TtQ6kPLtla3bQ7MFIeqhwIpyRMINtXunFOsyi5qDC8A=
+			iLhNPyTgB+STnu5toHro2pFIWXS14fQrzaJXnCo7rMI=
 			</data>
 		</dict>
 		<key>en.lproj/Localizable.strings</key>
