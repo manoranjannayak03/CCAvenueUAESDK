@@ -5674,1379 +5674,1379 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Localization\/LocalizationHelper.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Localization\/LocalizationHelper.swift",
       "kind": "StringLiteral",
       "offset": 163,
       "length": 4,
       "value": "\"en\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Localization\/LocalizationHelper.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Localization\/LocalizationHelper.swift",
       "kind": "StringLiteral",
       "offset": 185,
       "length": 4,
       "value": "\"hi\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Localization\/LocalizationHelper.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Localization\/LocalizationHelper.swift",
       "kind": "StringLiteral",
       "offset": 209,
       "length": 4,
       "value": "\"mr\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Localization\/LocalizationHelper.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Localization\/LocalizationHelper.swift",
       "kind": "StringLiteral",
       "offset": 232,
       "length": 4,
       "value": "\"bn\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Localization\/LocalizationHelper.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Localization\/LocalizationHelper.swift",
       "kind": "StringLiteral",
       "offset": 256,
       "length": 4,
       "value": "\"gu\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Localization\/LocalizationHelper.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Localization\/LocalizationHelper.swift",
       "kind": "StringLiteral",
       "offset": 278,
       "length": 4,
       "value": "\"tm\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Localization\/LocalizationHelper.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Localization\/LocalizationHelper.swift",
       "kind": "StringLiteral",
       "offset": 301,
       "length": 4,
       "value": "\"te\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Localization\/LocalizationHelper.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Localization\/LocalizationHelper.swift",
       "kind": "StringLiteral",
       "offset": 325,
       "length": 4,
       "value": "\"ka\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Localization\/LocalizationHelper.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Localization\/LocalizationHelper.swift",
       "kind": "StringLiteral",
       "offset": 473,
       "length": 19,
       "value": "\"cc_currentLanuage\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/ServiceInterface\/ServiceRequest.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/ServiceInterface\/ServiceRequest.swift",
       "kind": "StringLiteral",
       "offset": 159,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
       "kind": "StringLiteral",
       "offset": 317,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
       "kind": "StringLiteral",
       "offset": 356,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
       "kind": "StringLiteral",
       "offset": 391,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
       "kind": "StringLiteral",
       "offset": 428,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
       "kind": "IntegerLiteral",
       "offset": 464,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
       "kind": "StringLiteral",
       "offset": 499,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
       "kind": "IntegerLiteral",
       "offset": 535,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
       "kind": "StringLiteral",
       "offset": 574,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
       "kind": "StringLiteral",
       "offset": 612,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
       "kind": "BooleanLiteral",
       "offset": 653,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
       "kind": "StringLiteral",
       "offset": 700,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
       "kind": "StringLiteral",
       "offset": 806,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
       "kind": "StringLiteral",
       "offset": 844,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
       "kind": "StringLiteral",
       "offset": 912,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
       "kind": "StringLiteral",
       "offset": 955,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
       "kind": "StringLiteral",
       "offset": 995,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
       "kind": "StringLiteral",
       "offset": 1038,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
       "kind": "StringLiteral",
       "offset": 1080,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
       "kind": "StringLiteral",
       "offset": 1119,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
       "kind": "StringLiteral",
       "offset": 1160,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
       "kind": "StringLiteral",
       "offset": 1230,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
       "kind": "StringLiteral",
       "offset": 1274,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
       "kind": "StringLiteral",
       "offset": 1315,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
       "kind": "StringLiteral",
       "offset": 1359,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
       "kind": "StringLiteral",
       "offset": 1401,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
       "kind": "StringLiteral",
       "offset": 1441,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
       "kind": "StringLiteral",
       "offset": 1531,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
       "kind": "StringLiteral",
       "offset": 1574,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
       "kind": "StringLiteral",
       "offset": 1617,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
       "kind": "StringLiteral",
       "offset": 1660,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
       "kind": "StringLiteral",
       "offset": 1703,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
       "kind": "StringLiteral",
       "offset": 1784,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
       "kind": "StringLiteral",
       "offset": 1828,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
       "kind": "StringLiteral",
       "offset": 1870,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
       "kind": "StringLiteral",
       "offset": 1907,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
       "kind": "StringLiteral",
       "offset": 1947,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
       "kind": "StringLiteral",
       "offset": 1991,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
       "kind": "StringLiteral",
       "offset": 2031,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentConfig.swift",
       "kind": "StringLiteral",
       "offset": 2071,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/CouponsView.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/CouponsView.swift",
       "kind": "StringLiteral",
       "offset": 326,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/CouponsView.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/CouponsView.swift",
       "kind": "IntegerLiteral",
       "offset": 3461,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/ShakeEffect.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/ShakeEffect.swift",
       "kind": "IntegerLiteral",
       "offset": 179,
       "length": 1,
       "value": "8"
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/ShakeEffect.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/ShakeEffect.swift",
       "kind": "IntegerLiteral",
       "offset": 205,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/AddressValidator.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/AddressValidator.swift",
       "kind": "StringLiteral",
       "offset": 313,
       "length": 24,
       "value": "\"^[a-zA-Z][a-zA-Z ]+$\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/AddressValidator.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/AddressValidator.swift",
       "kind": "StringLiteral",
       "offset": 357,
       "length": 26,
       "value": "\"^[a-zA-Z0-9 ,\/.#()-]+$\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/AddressValidator.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/AddressValidator.swift",
       "kind": "StringLiteral",
       "offset": 400,
       "length": 24,
       "value": "\"^[a-zA-Z][a-zA-Z ]+$\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/AddressValidator.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/AddressValidator.swift",
       "kind": "StringLiteral",
       "offset": 442,
       "length": 24,
       "value": "\"^[a-zA-Z][a-zA-Z ]+$\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/AddressValidator.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/AddressValidator.swift",
       "kind": "StringLiteral",
       "offset": 486,
       "length": 24,
       "value": "\"^[a-zA-Z][a-zA-Z ]+$\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/AddressValidator.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/AddressValidator.swift",
       "kind": "StringLiteral",
       "offset": 528,
       "length": 19,
       "value": "\"^[0-9+-]{4,22}$\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/AddressValidator.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/AddressValidator.swift",
       "kind": "StringLiteral",
       "offset": 565,
       "length": 52,
       "value": "\"^[A-Z0-9a-z._%+-]+@[A-Za-z0-9.-]+\\.[A-Za-z]{2,}$\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/ServiceInterface\/Reach.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/ServiceInterface\/Reach.swift",
       "kind": "StringLiteral",
       "offset": 180,
       "length": 39,
       "value": "\"ReachabilityStatusChangedNotification\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/LuhnAlgo.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/LuhnAlgo.swift",
       "kind": "StringLiteral",
       "offset": 510,
       "length": 18,
       "value": "\"^3[47][0-9]{0,}$\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/LuhnAlgo.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/LuhnAlgo.swift",
       "kind": "StringLiteral",
       "offset": 559,
       "length": 34,
       "value": "\"^3(?:0[0-5]|[68][0-9])[0-9]{0,}$\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/LuhnAlgo.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/LuhnAlgo.swift",
       "kind": "StringLiteral",
       "offset": 624,
       "length": 31,
       "value": "\"^6(?:011|5[0-9]{2})[0-9]{0,}$\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/LuhnAlgo.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/LuhnAlgo.swift",
       "kind": "StringLiteral",
       "offset": 686,
       "length": 37,
       "value": "\"^(?:2131|1800|35[0-9]{3})[0-9]{0,}$\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/LuhnAlgo.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/LuhnAlgo.swift",
       "kind": "StringLiteral",
       "offset": 754,
       "length": 86,
       "value": "\"^(?:5018|5020|5038|5612|5893|6220|6304|6759|6761|6762|6763|0604|6390|2223)[0-9]{0,}$\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/LuhnAlgo.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/LuhnAlgo.swift",
       "kind": "StringLiteral",
       "offset": 871,
       "length": 60,
       "value": "\"^(5[1-5][0-9]{0,}|2(?:2[2-9]|[3-6][0-9]|7[0-1])[0-9]{0,})$\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/LuhnAlgo.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/LuhnAlgo.swift",
       "kind": "StringLiteral",
       "offset": 962,
       "length": 14,
       "value": "\"^4[0-9]{0,}$\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/PaymentWebView.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/PaymentWebView.swift",
       "kind": "BooleanLiteral",
       "offset": 341,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/EditAddressView.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/EditAddressView.swift",
       "kind": "IntegerLiteral",
       "offset": 485,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/EditAddressView.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/EditAddressView.swift",
       "kind": "IntegerLiteral",
       "offset": 517,
       "length": 3,
       "value": "530"
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/EditAddressView.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/EditAddressView.swift",
       "kind": "IntegerLiteral",
       "offset": 559,
       "length": 3,
       "value": "450"
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/EditAddressView.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/EditAddressView.swift",
       "kind": "IntegerLiteral",
       "offset": 594,
       "length": 2,
       "value": "12"
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/EditAddressView.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/EditAddressView.swift",
       "kind": "BooleanLiteral",
       "offset": 9078,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/EditAddressView.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/EditAddressView.swift",
       "kind": "StringLiteral",
       "offset": 10197,
       "length": 14,
       "value": "\"Billing Name\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/EditAddressView.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/EditAddressView.swift",
       "kind": "StringLiteral",
       "offset": 10230,
       "length": 17,
       "value": "\"Billing Address\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/EditAddressView.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/EditAddressView.swift",
       "kind": "StringLiteral",
       "offset": 10263,
       "length": 14,
       "value": "\"Billing City\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/EditAddressView.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/EditAddressView.swift",
       "kind": "StringLiteral",
       "offset": 10294,
       "length": 15,
       "value": "\"Billing State\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/EditAddressView.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/EditAddressView.swift",
       "kind": "StringLiteral",
       "offset": 10328,
       "length": 17,
       "value": "\"Billing Country\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/EditAddressView.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/EditAddressView.swift",
       "kind": "StringLiteral",
       "offset": 10362,
       "length": 12,
       "value": "\"0123654789\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/EditAddressView.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/EditAddressView.swift",
       "kind": "StringLiteral",
       "offset": 10391,
       "length": 24,
       "value": "\"billingEmail@yahoo.com\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/EditAddressView.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/EditAddressView.swift",
       "kind": "BooleanLiteral",
       "offset": 10443,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/EditAddressView.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/EditAddressView.swift",
       "kind": "IntegerLiteral",
       "offset": 10526,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/KeyboardObserver.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/KeyboardObserver.swift",
       "kind": "IntegerLiteral",
       "offset": 226,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/CardDataValidation.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/CardDataValidation.swift",
       "kind": "StringLiteral",
       "offset": 4968,
       "length": 19,
       "value": "\"^[a-zA-Z0-9]{18}$\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/CardDataValidation.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/CardDataValidation.swift",
       "kind": "StringLiteral",
       "offset": 5016,
       "length": 13,
       "value": "\"^[0-9]{1,}$\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/CardDataValidation.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/CardDataValidation.swift",
       "kind": "StringLiteral",
       "offset": 5055,
       "length": 24,
       "value": "\"^[a-zA-Z0-9_\/-]{1,30}$\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/CardDataValidation.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/CardDataValidation.swift",
       "kind": "StringLiteral",
       "offset": 5101,
       "length": 20,
       "value": "\"[a-zA-Z][a-zA-Z ]+\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/CardDataValidation.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/CardDataValidation.swift",
       "kind": "StringLiteral",
       "offset": 5153,
       "length": 30,
       "value": "\"^(?!\\s*$)[A-Za-z'‘.\\s]+$\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/CardDataValidation.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/CardDataValidation.swift",
       "kind": "StringLiteral",
       "offset": 5211,
       "length": 16,
       "value": "\"^[a-zA-Z\\s].*\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/CardDataValidation.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/CardDataValidation.swift",
       "kind": "StringLiteral",
       "offset": 5253,
       "length": 27,
       "value": "\"^[a-zA-Z ](.*[a-zA-Z ])?$\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/CardDataValidation.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/CardDataValidation.swift",
       "kind": "StringLiteral",
       "offset": 5309,
       "length": 102,
       "value": "\"^(?:(?!(\\\/\\|\\\\\/|@@|--|!!|__|\\^\\^|##|\\$\\$|%%|&&|\\.\\.|\\(\\(|\\)\\)|,,|''|‘‘)).[\\n]*)+$\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/CardDataValidation.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/CardDataValidation.swift",
       "kind": "StringLiteral",
       "offset": 5436,
       "length": 22,
       "value": "\"[a-zA-Z0-9 ,\/.#()-]+\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/CardDataValidation.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/CardDataValidation.swift",
       "kind": "StringLiteral",
       "offset": 5480,
       "length": 20,
       "value": "\"[a-zA-Z][a-zA-Z ]+\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/CardDataValidation.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/CardDataValidation.swift",
       "kind": "StringLiteral",
       "offset": 5523,
       "length": 20,
       "value": "\"[a-zA-Z][a-zA-Z ]+\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/CardDataValidation.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/CardDataValidation.swift",
       "kind": "StringLiteral",
       "offset": 5568,
       "length": 21,
       "value": "\"^[a-zA-Z0-9]{1,15}$\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/CardDataValidation.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/CardDataValidation.swift",
       "kind": "StringLiteral",
       "offset": 5614,
       "length": 20,
       "value": "\"[a-zA-Z][a-zA-Z ]+\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/CardDataValidation.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/CardDataValidation.swift",
       "kind": "StringLiteral",
       "offset": 5662,
       "length": 15,
       "value": "\"[0-9+-]{4,22}\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/CardDataValidation.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Utilities\/CardDataValidation.swift",
       "kind": "StringLiteral",
       "offset": 5700,
       "length": 49,
       "value": "\"[A-Z0-9a-z._%+-]+@[A-Za-z0-9.-]+\\.[A-Za-z]{1,}\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/SavedCardList.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/SavedCardList.swift",
       "kind": "IntegerLiteral",
       "offset": 2998,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/SavedCardList.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/SavedCardList.swift",
       "kind": "BooleanLiteral",
       "offset": 3038,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/ViewModel\/CouponsViewModel.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/ViewModel\/CouponsViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 247,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/ApplyPromotionModel.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/ApplyPromotionModel.swift",
       "kind": "StringLiteral",
       "offset": 486,
       "length": 9,
       "value": "\"net_amt\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/ApplyPromotionModel.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/ApplyPromotionModel.swift",
       "kind": "StringLiteral",
       "offset": 525,
       "length": 16,
       "value": "\"discount_value\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/ApplyPromotionModel.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/ApplyPromotionModel.swift",
       "kind": "StringLiteral",
       "offset": 571,
       "length": 16,
       "value": "\"promo_cashback\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/ServiceInterface\/ServiceInterface.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/ServiceInterface\/ServiceInterface.swift",
       "kind": "IntegerLiteral",
       "offset": 189,
       "length": 3,
       "value": "200"
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/ServiceInterface\/ServiceInterface.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/ServiceInterface\/ServiceInterface.swift",
       "kind": "IntegerLiteral",
       "offset": 215,
       "length": 3,
       "value": "104"
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/ServiceInterface\/ServiceInterface.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/ServiceInterface\/ServiceInterface.swift",
       "kind": "IntegerLiteral",
       "offset": 247,
       "length": 3,
       "value": "105"
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/ServiceInterface\/ServiceInterface.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/ServiceInterface\/ServiceInterface.swift",
       "kind": "IntegerLiteral",
       "offset": 279,
       "length": 3,
       "value": "106"
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/ServiceInterface\/ServiceInterface.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/ServiceInterface\/ServiceInterface.swift",
       "kind": "IntegerLiteral",
       "offset": 305,
       "length": 3,
       "value": "107"
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/ServiceInterface\/ServiceInterface.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/ServiceInterface\/ServiceInterface.swift",
       "kind": "IntegerLiteral",
       "offset": 334,
       "length": 3,
       "value": "108"
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/MainView.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/MainView.swift",
       "kind": "StringLiteral",
-      "offset": 1860,
+      "offset": 1905,
       "length": 12,
       "value": "\"Saved Card\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/MainView.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/MainView.swift",
       "kind": "StringLiteral",
-      "offset": 1896,
+      "offset": 1941,
       "length": 21,
       "value": "\"Credit \/ Debit Card\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/MainView.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/MainView.swift",
       "kind": "StringLiteral",
-      "offset": 1938,
+      "offset": 1983,
       "length": 16,
       "value": "\"China UnionPay\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/MainView.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/MainView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2200,
+      "offset": 2245,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/MainView.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/MainView.swift",
       "kind": "BooleanLiteral",
-      "offset": 2299,
+      "offset": 2344,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/MainView.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/MainView.swift",
       "kind": "BooleanLiteral",
-      "offset": 2531,
+      "offset": 2576,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/MainView.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/MainView.swift",
       "kind": "Dictionary",
-      "offset": 2598,
+      "offset": 2643,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/MainView.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/MainView.swift",
       "kind": "BooleanLiteral",
-      "offset": 2702,
+      "offset": 2747,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/MainView.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/MainView.swift",
       "kind": "BooleanLiteral",
-      "offset": 2751,
+      "offset": 2796,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/MainView.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/MainView.swift",
       "kind": "BooleanLiteral",
-      "offset": 2873,
+      "offset": 2918,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/MainView.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/MainView.swift",
       "kind": "BooleanLiteral",
-      "offset": 27950,
+      "offset": 27998,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/MainView.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/MainView.swift",
       "kind": "IntegerLiteral",
-      "offset": 31451,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/MainView.swift",
-      "kind": "StringLiteral",
       "offset": 31499,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/MainView.swift",
-      "kind": "StringLiteral",
-      "offset": 31549,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/MainView.swift",
-      "kind": "StringLiteral",
-      "offset": 31649,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/MainView.swift",
-      "kind": "StringLiteral",
-      "offset": 31751,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/MainView.swift",
-      "kind": "StringLiteral",
-      "offset": 31846,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/MainView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 31937,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/MainView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 31974,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/MainView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 32010,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/MainView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 32154,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/MainView.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/MainView.swift",
+      "kind": "StringLiteral",
+      "offset": 31547,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/MainView.swift",
+      "kind": "StringLiteral",
+      "offset": 31597,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/MainView.swift",
+      "kind": "StringLiteral",
+      "offset": 31697,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/MainView.swift",
+      "kind": "StringLiteral",
+      "offset": 31799,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/MainView.swift",
+      "kind": "StringLiteral",
+      "offset": 31894,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/MainView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 31985,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/MainView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 32022,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/MainView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 32058,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/MainView.swift",
       "kind": "IntegerLiteral",
       "offset": 32202,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/MainView.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/MainView.swift",
       "kind": "IntegerLiteral",
       "offset": 32250,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/MainView.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/MainView.swift",
       "kind": "IntegerLiteral",
-      "offset": 32295,
+      "offset": 32298,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/MainView.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/MainView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 32343,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/MainViewController\/MainView.swift",
       "kind": "BooleanLiteral",
-      "offset": 32342,
+      "offset": 32390,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentOptions.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentOptions.swift",
       "kind": "IntegerLiteral",
       "offset": 1410,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentOptions.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentOptions.swift",
       "kind": "IntegerLiteral",
       "offset": 1421,
       "length": 4,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentOptions.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentOptions.swift",
       "kind": "IntegerLiteral",
       "offset": 1435,
       "length": 10,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentOptions.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentOptions.swift",
       "kind": "IntegerLiteral",
       "offset": 1455,
       "length": 8,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentOptions.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentOptions.swift",
       "kind": "IntegerLiteral",
       "offset": 1473,
       "length": 10,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentOptions.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentOptions.swift",
       "kind": "IntegerLiteral",
       "offset": 1493,
       "length": 3,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentOptions.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentOptions.swift",
       "kind": "IntegerLiteral",
       "offset": 1506,
       "length": 7,
       "value": "6"
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentOptions.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentOptions.swift",
       "kind": "IntegerLiteral",
       "offset": 1523,
       "length": 5,
       "value": "7"
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentOptions.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/PaymentOptions.swift",
       "kind": "IntegerLiteral",
       "offset": 1538,
       "length": 4,
       "value": "8"
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/DiscountDataModel.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/DiscountDataModel.swift",
       "kind": "StringLiteral",
       "offset": 465,
       "length": 9,
       "value": "\"net_amt\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/DiscountDataModel.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/DiscountDataModel.swift",
       "kind": "StringLiteral",
       "offset": 504,
       "length": 16,
       "value": "\"discount_value\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/MerchantDetailModel.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/Model\/MerchantDetailModel.swift",
       "kind": "StringLiteral",
       "offset": 709,
       "length": 14,
       "value": "\"CustPayments\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/ViewModel\/PaymentWebViewModel.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/ViewModel\/PaymentWebViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 259,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/ViewModel\/PaymentWebViewModel.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/ViewModel\/PaymentWebViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 460,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/ViewModel\/MainViewModel.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/ViewModel\/MainViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 331,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/ViewModel\/MainViewModel.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/CCAvenueUAESDK\/ViewModel\/MainViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 508,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 738,
       "length": 15,
       "value": "\"Amex ezeClick\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 887,
       "length": 14,
       "value": "\"CCAvenueLogo\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1043,
       "length": 18,
       "value": "\"MaestroDEBITCARD\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1209,
       "length": 21,
       "value": "\"MasterCardDebitCard\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1356,
       "length": 10,
       "value": "\"OPTCASHC\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1490,
       "length": 9,
       "value": "\"OPTCRDC\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1625,
       "length": 10,
       "value": "\"OPTDBCRD\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1757,
       "length": 8,
       "value": "\"OPTEMI\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1889,
       "length": 9,
       "value": "\"OPTMOBP\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2020,
       "length": 8,
       "value": "\"OPTNBK\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2152,
       "length": 9,
       "value": "\"OPTNEFT\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2283,
       "length": 8,
       "value": "\"OPTPTM\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2413,
       "length": 8,
       "value": "\"OPTUPI\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2543,
       "length": 8,
       "value": "\"OPTWLT\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2677,
       "length": 10,
       "value": "\"Selected\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2812,
       "length": 10,
       "value": "\"UNP-base\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2945,
       "length": 9,
       "value": "\"UNP-top\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3090,
       "length": 15,
       "value": "\"VISADEBITCARD\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3226,
       "length": 8,
       "value": "\"Visa 1\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3352,
       "length": 6,
       "value": "\"amex\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3483,
       "length": 10,
       "value": "\"back_btn\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3620,
       "length": 11,
       "value": "\"bank-card\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3766,
       "length": 15,
       "value": "\"ccavenue_logo\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3918,
       "length": 16,
       "value": "\"checkBox-check\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 4075,
       "length": 18,
       "value": "\"checkBox-uncheck\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 4213,
       "length": 7,
       "value": "\"close\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 4342,
       "length": 8,
       "value": "\"diners\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 4476,
       "length": 10,
       "value": "\"discover\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 4615,
       "length": 12,
       "value": "\"down_arrow\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 4748,
       "length": 8,
       "value": "\"ic_cvv\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 4872,
       "length": 5,
       "value": "\"jcb\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 5001,
       "length": 9,
       "value": "\"maestro\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 5140,
       "length": 12,
       "value": "\"mastercard\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 5272,
       "length": 10,
       "value": "\"no-image\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 5402,
       "length": 7,
       "value": "\"offer\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 5547,
       "length": 17,
       "value": "\"radio-on-button\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 5695,
       "length": 13,
       "value": "\"right_arrow\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 5835,
       "length": 11,
       "value": "\"save_card\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 5977,
       "length": 13,
       "value": "\"saved-cards\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 6112,
       "length": 8,
       "value": "\"select\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 6249,
       "length": 12,
       "value": "\"unknown_cc\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 6377,
       "length": 5,
       "value": "\"unp\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 6512,
       "length": 12,
       "value": "\"unselected\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 6649,
       "length": 10,
       "value": "\"up_arrow\""
     },
     {
-      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/temp file\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/manoranjannayak\/Documents\/BitBucketTest\/UAESDK2.0\/DubaiSDK2.0\/CCAvenueUAESDK\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CCAvenueUAESDK\/IntermediateBuildFilesPath\/CCAvenueUAESDK.build\/Release-iphonesimulator\/CCAvenueUAESDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 6777,
       "length": 6,
