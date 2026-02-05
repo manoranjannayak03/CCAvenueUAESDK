@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'CCAvenueUAESDK'
-  s.version          = '1.0.0'
+  s.version          = '1.0.2'
   s.summary          = 'Secure Payment SDK for iOS'
   s.description      = 'CCAvenueUAESDK provides secure payment processing via WebView and native flows.'
   s.homepage         = 'https://github.com/manoranjannayak03/CCAvenueUAESDK'
